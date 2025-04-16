@@ -10,9 +10,8 @@ A sleek and responsive hotel booking website clone built using **pure HTML, CSS,
 - 🔍 Search bar to filter hotels by location and date
 - 🏨 Hotel listing page with images, pricing, and basic details
 - 📄 Hotel detail page with photo gallery, amenities, and booking button
-- 📱 Fully responsive design (mobile, tablet, desktop)
 - 💡 Smooth animations and transitions for a modern UX
-
+  
 ---
 
 ## 🛠️ Technologies Used
